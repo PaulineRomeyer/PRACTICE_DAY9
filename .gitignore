@@ -1,1 +1,13 @@
-DATA_REPOSITORY
+DATA_REPOSITORY/initial_file.txt
+
+GitHub_test/Alphabet_2/DATA/*.txt
+GitHub_test/Alphabet_2/RESULTS/*.txt
+GitHub_test/Annotation_1/DATA/*.txt
+GitHub_test/Annotation_1/RESULTS/*.txt
+GitHub_test/Numbers_3/RESULTS/*.txt
+GitHub_test/Numbers_3/DATA/*.txt
+
+
+
+
+
